@@ -1,7 +1,7 @@
 API
 ===
 
-The TrackAbout API documentation includes the [Help/Readme][help] and [Interactive Documentation][swagger] pages.
+Visit the [API documentation wiki][api-wiki] to get started working with the TrackAbout API. Visit the [Interactive Documentation][swagger] page to view and test API endpoints.
 
-[help]: https://www.trackabout.com/api/docs/readme
+[api-wiki]: https://github.com/trackabout/API/wiki/TrackAbout-API-Documentation
 [swagger]: https://www.trackabout.com/api/docs
