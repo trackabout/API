@@ -12,9 +12,6 @@ namespace TrackAbout.RestApi.Interface.Documentation
         /// Affects how to interpret the value of the X-Impersonate-User 
         /// header. In not supplied, default value is Username.
         /// </summary>
-        /// <see cref="TrackAbout.RestApi.Interface.Common.ImpersonationMethod">
-        /// For possible values
-        /// </see>
         public const string ImpersonationMethod = "X-Impersonation-Method";
 
         /// <summary>
