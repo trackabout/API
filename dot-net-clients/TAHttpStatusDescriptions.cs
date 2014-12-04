@@ -5,6 +5,7 @@ namespace TrackAbout.RestApi.Interface.Documentation
         public const string ValidationFailure = "ValidationFailure";
         public const string ResourceNotFound = "ResourceNotFound";
         public const string InvalidConfiguration = "InvalidConfiguration";
+        public const string SyncProblemRecorded = "SyncProblemRecorded";
 
         public const string InvalidApiKey = "InvalidApiKey";
         public const string ImpersonationFailed = "ImpersonationFailed";
