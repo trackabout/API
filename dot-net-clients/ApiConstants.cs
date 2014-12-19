@@ -12,4 +12,10 @@ namespace TrackAbout.RestApi.Interface.Documentation
         public const string Post = "POST";
         public const string Put = "PUT";
     }
+
+    public enum ImpersonationMethod
+    {
+        Username, // default
+        AccountingUserId
+    }
 }
