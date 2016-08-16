@@ -13,6 +13,5 @@ namespace TrackAbout.RestApi.Interface.Documentation
         public const string ExpiredToken = "ExpiredToken";
         public const string InvalidCredentials = "InvalidCredentials";
         public const string PermissionRequired = "Permission Required";
-        public const string UserLockedOut = "UserLockedOut";
     }
 }
